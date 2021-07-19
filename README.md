@@ -7,9 +7,6 @@
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszkrzaczkowski&layout=compact" alt="Top Languages" width="45%" >
 
-## Wakatime Week Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariuszkrzaczkowski&layout=compact" alt="Wakatime Week Stats" width="45%" >
-
 <!--
 **mariuszkrzaczkowski/mariuszkrzaczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
