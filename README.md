@@ -4,6 +4,7 @@
 <a href="mailto:m.krzaczkowski@yetiforce.com">![Email Me!!](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariuszkrzaczkowski)
 <a href="https://www.linkedin.com/in/mariusz-krzaczkowski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://huntr.dev/users/mariuszkrzaczkowski/">![huntr.dev](https://img.shields.io/badge/huntr.dev-%23000000?style=for-the-badge)</a> 
 
 ## My GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=mariuszkrzaczkowski&show_icons=true" alt="Github Stats" width="45%" align="right" />
