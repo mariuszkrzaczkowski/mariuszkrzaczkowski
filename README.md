@@ -19,11 +19,6 @@
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszkrzaczkowski&layout=compact" alt="Top Languages" width="45%" />
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<img src="https://activity-graph.herokuapp.com/graph?username=mariuszkrzaczkowski&theme=github" alt="GitHub Activity Graph" width="100%" />
-
-
 <!--
 **mariuszkrzaczkowski/mariuszkrzaczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
