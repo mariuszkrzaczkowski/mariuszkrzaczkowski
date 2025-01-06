@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariuszkrzaczkowski)
 <a href="https://www.linkedin.com/in/mariusz-krzaczkowski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://crowdin.com/profile/mariuszkrzaczkowski">![crowdin.com](https://img.shields.io/badge/Crowdin-100000?style=for-the-badge&logo=Crowdin&logoColor=white)</a>
+<a href="https://app.transifex.com/user/profile/mkrzaczkowski/">![crowdin.com](https://img.shields.io/badge/Transifex-200000?style=for-the-badge&logo=transifex&logoColor=white)</a>
 <a href="https://huntr.dev/users/mariuszkrzaczkowski/">![huntr.dev](https://img.shields.io/badge/huntr.dev-%23000000?style=for-the-badge)</a> 
 
 
