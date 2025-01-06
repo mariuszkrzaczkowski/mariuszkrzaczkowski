@@ -1,7 +1,7 @@
 # Hi there. I am Mariusz 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mariuszkrzaczkowski.repoName)
 
 - 📫 How to reach me: 
-<a href="mailto:m.krzaczkowski@yetiforce.com">![Email Me!!](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:mariusz.krzaczkowski@gmail.com">![Email Me!!](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariuszkrzaczkowski)
 <a href="https://www.linkedin.com/in/mariusz-krzaczkowski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://crowdin.com/profile/mariuszkrzaczkowski">![crowdin.com](https://img.shields.io/badge/Crowdin-100000?style=for-the-badge&logo=Crowdin&logoColor=white)</a>
