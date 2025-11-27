@@ -23,18 +23,41 @@
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszkrzaczkowski&layout=compact" alt="Top Languages" width="45%" />
 
-<!--
-**mariuszkrzaczkowski/mariuszkrzaczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- === Profile Metrics === -->
 
-Here are some ideas to get you started:
+<!-- Metrics Github Profile -->
+<img align="center" width="49%" src="metrics-header.svg" alt="Metrics Github Profile"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Metrics Github Contributions -->
+<img align="center" width="49%" src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
+
+<br/>
+
+<!-- Metrics Github Repositories -->
+<img align="center" width="49%" src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
+
+<!-- Metrics Github Activity Community -->
+<img align="center" width="49%" src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
+
+
+<!-- Metrics Iso-Calendar -->
+<img align="center" width="49%" src="metrics-isocalendar.svg" alt="Metrics Iso-Calendar"/>
+
+
+<!-- Metrics Programing Languages -->
+<img align="center" width="49%" src="metrics-languages.svg" alt="Metrics Programing Languages"/>
+
+
+<!-- Metrics Github Achievements -->
+<img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
+ 
+<!-- Metrics Github Issues Followup -->
+<img align="center" width="49%" src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
+
+<!-- Metrics Code Habits -->
+<br/>
+<img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
+
+<!-- Metrics Stared Topics -->
+<img align="center" width="49%" src="metrics-stared-topics.svg" alt="Metrics Stared Topics"/>
 
