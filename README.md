@@ -3,9 +3,10 @@
 - 📫 How to reach me: 
 <a href="mailto:mariusz.krzaczkowski@gmail.com">![Email Me!!](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariuszkrzaczkowski)
-<a href="https://www.linkedin.com/in/mariusz-krzaczkowski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://crowdin.com/profile/mariuszkrzaczkowski">![crowdin.com](https://img.shields.io/badge/Crowdin-100000?style=for-the-badge&logo=Crowdin&logoColor=white)</a>
-<a href="https://app.transifex.com/user/profile/mkrzaczkowski/">![crowdin.com](https://img.shields.io/badge/Transifex-200000?style=for-the-badge&logo=transifex&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/mariusz-krzaczkowski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn)</a>
+<a href="https://crowdin.com/profile/mariuszkrzaczkowski">![crowdin.com](https://img.shields.io/badge/Crowdin-100000?style=for-the-badge&logo=Crowdin)</a>
+<a href="https://app.transifex.com/user/profile/mkrzaczkowski/">![crowdin.com](https://img.shields.io/badge/Transifex-200000?style=for-the-badge&logo=transifex)</a>
+<a href="https://hosted.weblate.org/user/mariuszkrzaczkowski/">![weblate.org](https://img.shields.io/badge/weblate-100000?style=for-the-badge&logo=weblate)</a>
 <a href="https://huntr.dev/users/mariuszkrzaczkowski/">![huntr.dev](https://img.shields.io/badge/huntr.dev-%23000000?style=for-the-badge)</a> 
 
 
