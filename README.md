@@ -25,39 +25,43 @@
 
 <!-- === Profile Metrics === -->
 
-<!-- Metrics Github Profile -->
-<img align="center" width="49%" src="metrics-header.svg" alt="Metrics Github Profile"/>
+<picture>
+  <img src="metrics-header.svg" alt="Metrics Github Profile"/>
+</picture>
 
-<!-- Metrics Github Contributions -->
-<img align="center" width="49%" src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
+<picture>
+  <img src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
+</picture>
 
-<br/>
+<picture>
+  <img src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
+</picture>
 
-<!-- Metrics Github Repositories -->
-<img align="center" width="49%" src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
+<picture>
+  <img src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
+</picture>
 
-<!-- Metrics Github Activity Community -->
-<img align="center" width="49%" src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
+<picture>
+  <img src="metrics-isocalendar.svg" alt="Metrics Iso-Calendar"/>
+</picture>
 
+<picture>
+  <img src="metrics-languages.svg" alt="Metrics Programing Languages"/>
+</picture>
 
-<!-- Metrics Iso-Calendar -->
-<img align="center" width="49%" src="metrics-isocalendar.svg" alt="Metrics Iso-Calendar"/>
+<picture>
+  <img src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
+</picture>
 
+<picture>
+  <img src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
+</picture>
 
-<!-- Metrics Programing Languages -->
-<img align="center" width="49%" src="metrics-languages.svg" alt="Metrics Programing Languages"/>
+<picture>
+  <img src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
+</picture>
 
-
-<!-- Metrics Github Achievements -->
-<img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
- 
-<!-- Metrics Github Issues Followup -->
-<img align="center" width="49%" src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
-
-<!-- Metrics Code Habits -->
-<br/>
-<img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
-
-<!-- Metrics Stared Topics -->
-<img align="center" width="49%" src="metrics-stared-topics.svg" alt="Metrics Stared Topics"/>
+<picture>
+  <img src="metrics-stared-topics.svg" alt="Metrics Stared Topics"/>
+</picture>
 
