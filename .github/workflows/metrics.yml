@@ -30,7 +30,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: header, metadata
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -50,7 +50,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: repositories, metadata
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -70,7 +70,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: activity, community, metadata
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -90,7 +90,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -113,7 +113,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -135,7 +135,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -168,7 +168,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -191,7 +191,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -220,7 +220,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: achievements
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -245,7 +245,7 @@ jobs:
           filename: ${{ github.job }}.svg
 
           # Options
-          user: vvhybe
+          user: mariuszkrzaczkowski
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
