@@ -20,7 +20,7 @@
 
 ## 👋 Welcome!
 
-I'm a **Solutions Architect and Full-Stack Developer** with 10+ years of experience building scalable enterprise systems. I specialize in **CRM/ERP architecture, microservices design, and secure application development**. Currently, I architect and develop solutions at **YetiForce**, where we drive innovation in enterprise CRM/ERP technology.
+I'm a **Solutions Architect and Full-Stack Developer** with 15+ years of experience building scalable enterprise systems. I specialize in **CRM/ERP architecture, microservices design, and secure application development**. Currently, I architect and develop solutions at **YetiForce**, where we drive innovation in enterprise CRM/ERP technology.
 
 My expertise spans across full development lifecycle—from architectural decisions and backend optimization to DevOps automation and security-first practices. I'm passionate about solving complex technical challenges and contributing to the open-source ecosystem.
 
