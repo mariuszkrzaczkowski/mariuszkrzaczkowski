@@ -114,17 +114,24 @@ My expertise spans across full development lifecycle—from architectural decisi
 
 ## 📊 GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mariuszkrzaczkowski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=mariuszkrzaczkowski&theme=tokyonight" alt="GitHub streak" />
-</p>
+<picture>
+  <img src="metrics-header.svg" alt="Metrics Github Profile"/>
+</picture>
+
+<picture>
+  <img src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
+</picture>
+
+<picture>
+  <img src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
+</picture>
+
+<picture>
+  <img src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszkrzaczkowski&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariuszkrzaczkowski&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="metrics-languages.svg" alt="Metrics Programing Languages"/>
 </p>
 
 ---
