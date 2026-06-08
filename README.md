@@ -189,5 +189,5 @@ Passionate about internationalization and open-source accessibility:
 ---
 
 **Based in**: Warsaw, Poland 🇵🇱  
-**Current Role**: Solutions Architect at YetiForce S.A.  
+**Current Role**: Solutions Architect at YetiForce
 **Time Zone**: UTC +02:00  
