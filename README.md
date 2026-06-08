@@ -1,5 +1,5 @@
 <!-- Hero banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Mariusz%20Krzaczkowski&fontSize=42&fontColor=ffffff&fontAlignY=25&desc=Solutions%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20%7C%20CyberSec%20%7C%20Open%20Source%20Enthusiast&descSize=15&descAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Mariusz%20Krzaczkowski&fontSize=42&fontColor=ffffff&fontAlignY=25&desc=Solutions%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20%7C%20CyberSec%20%7C%20Open%20Source%20Enthusiast&descSize=15&descAlignY=45" />
 
 <p align="center">
   <a href="https://github.com/mariuszkrzaczkowski"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
