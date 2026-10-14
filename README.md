@@ -54,8 +54,8 @@ My expertise spans across full development lifecycle—from architectural decisi
 ### 🔧 DevOps & SysOps
 - **Docker** & Docker Compose, container orchestration
 - **CI/CD**: GitHub Actions, GitLab CI
-- **IaC**: Ansible · **Virtualization**: Proxmox VE
-- **Observability**: Wazuh (SIEM/XDR), Zabbix
+- **IaC**: Ansible/AWX · **Virtualization**: Proxmox VE
+- **Observability**: Wazuh, Zabbix
 
 </td>
     <td width="50%" valign="top">
