@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mariusz Krzaczkowski's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 133792, Total PRs: 1033, Total Issues: 98, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 133793, Total PRs: 1034, Total Issues: 99, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 101.93120460708944;
+        stroke-dashoffset: 101.8933685574692;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >98</text>
+      >99</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
